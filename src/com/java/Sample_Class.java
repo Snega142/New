@@ -4,7 +4,7 @@ public class Sample_Class {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Updated sample class");	
+		System.out.println("Snega");	
 		
 	}
 }
